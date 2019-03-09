@@ -19,6 +19,6 @@ script: html5validator --root _build/
 deploy:
   provider: surge
   project: ./_build/
-  domain: sergio_html.surge.sh
+  domain: sergiogo96.surge.sh
   skip_cleanup: true
   
